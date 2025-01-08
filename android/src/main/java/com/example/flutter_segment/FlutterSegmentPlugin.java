@@ -1,4 +1,4 @@
-package com.example.flutter_segment;
+package com.ernestjsf.flutter_segment;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;

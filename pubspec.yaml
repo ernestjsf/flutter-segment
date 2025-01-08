@@ -26,7 +26,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.flutter_segment
+        package: com.ernestjsf.flutter_segment
         pluginClass: FlutterSegmentPlugin
       ios:
         pluginClass: FlutterSegmentPlugin
